@@ -1,0 +1,242 @@
+Day 0 from 100 Days of SwiftUI
+
+Core Skills:
+-----------------------------------------------------------------------------------------------
+1. Swift
+    The core programming language from Apple.
+
+2. SwiftUI
+    The framework from Apple that provides the tools to create apps interfaces.
+    This is not a replacement for Swift, instead it's a framework that
+    built on top of Swift.
+
+3. Data
+    The practice of converting data from a server using the network code 
+    into some information the apps needed.
+
+4. Networking
+    The practice of fetching data from the internet, or sending data
+    from the local device to a server somewhere.
+    Example: To fetch some JSON from a server.
+
+5. Version Control
+    The place to publish or store the codes somewhere with safely.
+    Example: GitHub.
+
+
+
+Extension Skills:
+-----------------------------------------------------------------------------------------------
+1. UIKit
+    The Apple's older user interface framework, and has been used for building apps since 2008.
+
+    * Pros:
+    - Hundreds of thousands of apps have already been written in UIKit.
+    - UIKit is significantly more powerful than SwiftUI.
+        There are many things you can do in UIKit that 
+        aren't possible in SwiftUI at this time.
+    - You can create extraordinarily precise layouts using
+        a technology called Auto Layout.
+    - There are more solutions available in UIKit than SwiftUI,
+        simply because it has been around much longer.
+
+    * Cons:
+    - Almost everything is harder to do in UIKit than SwiftUI,
+        with some things taking a hundred times as much code if not more.
+    - Because UIKit wasn't written for Swift, 
+        for example marking code with a special @objc attribute to make it
+        available to UIKit's Objective-C underbelly.
+    - Nothing about Auto Layout is "auto", it's extremely clever but 
+        it's also extremely hard in places.
+
+2. Core Data
+    The Apple's framework for working with application data.
+    It allows to manipulate that data once you have it with very efficiently.
+    It can also link up very easily to iCloud, that user's data gets 
+    synchronized across all their devices.
+
+3. Tests
+    Writing special code that tests your main app code works the way you expect.
+    Tests allow us to be sure our code works correctly, and more importantly 
+    allows us to continue to be sure our code works correctly even after made 
+    significant changes to it.
+
+4. Software Architecture
+    The proven techniques for structuring the codes to make it easier to read, 
+    easier to use, easier to modify, and easier to take care of in the longer term.
+    These usually called Design Patterns.
+    One major point that should start to learn about is how to break up the codes
+    into separate components, so it can be reused in another parts of the app.
+
+5. Concurrency/Multithreading
+    The practice of making your code do more than one thing at a time. 
+    Concurrency/Multithreading can be hard to understand, 
+    because when codes does one thing at a time, it moves through linearly, 
+    but when two or three things happen at the same time, potentially it 
+    moves overlapping each other.
+
+
+
+Common Mistakes:
+-----------------------------------------------------------------------------------------------
+1. Memorizing Everything
+    If you set out trying to memorize everything, you're going to have a hard time 
+    and it's a recipe for disaster, and will suck all your willpower out of you 
+    until you never want to program again.
+    Instead, don't worry about forgetting things: Knowing where to look them up is much 
+    more important than memorizing the specific code to accomplish something. 
+    When you forget something and have to relearn it, think of that as a good thing - 
+    that information will sink in deeper the second, third, and tenth time you learn it, 
+    so you're doing your brain a favor and some parts stick in your brain.
+
+2. Shiny Object Syndrome
+    They find a tutorial series that works well for them and start making some progress, 
+    but after a week or two of that they see some other tutorial series they want 
+    to follow and jump ship to that instead, and are for some weird reason - 
+    finding they aren't learning anything.
+    Instead, at least be conscious of it: When you hit a problem, try asking someone else 
+    for help, and powering through rather than switching.
+
+3. Lone Wolf Learning
+    They go all lone wolf their learning - they have it in their head that they are 
+    fully capable of learning to build iOS apps all by themselves, 
+    and don't need the help of others.
+    Trying to learn like this is a horrible experience - every mistake or 
+    misunderstanding takes five times as long to figure out, it's extremely easy 
+    to lose motivation, and you're missing out on a whole lot of inspiration 
+    from seeing others succeed.
+    Instead, share what you're learning, find others who are learning too, 
+    and get into the habit of asking questions. 
+
+4. Using Beta Software
+    They insist on using beta versions of Apple's development tools, and probably 
+    get into all sorts of problems when they try to learn with beta software: 
+        - Tutorials haven't been updated for the beta version, so following 
+            their instructions  won't always be possible or 
+            might not work correctly.
+        - Betas usually have bugs galore, particularly so for the ones 
+            released for major iOS updates.
+        - Apple's beta frameworks take time to stabilize, 
+            meaning that code working in beta 1 might not exist 
+            in beta 3.
+    Instead, always stick to the latest public releases of 
+    Apple's developer tools.
+
+5. Relying on Apple's documentation
+    The big problem they hit when trying to learn is relying on Apple's documentation.
+    This approach does work for some people, and for most people it's a bit like 
+    trying to learn a human language by reading a dictionary: It's designed 
+    to cover everything in the language, rather than teach you the most 
+    important parts and how to apply them.
+
+6. Getting lost in Objective-C
+    This was Apple's primary development language before Swift was introduced, 
+    and although you'll find remnants in some old codebases the overwhelming 
+    majority of existing code is now Swift, and almost all new code 
+    is also Swift.
+    Unless you're actually planning to work at Apple, then you should 
+    leave Objective-C well alone and focus entirely on Swift.
+
+7. Taking shots at other languages
+    They dump on other languages as if they were somehow inferior to Swift 
+    when they learning Swift. 
+    In fact, Swift and SwiftUI regularly take inspiration from other 
+    languages and frameworks, and SwiftUI itself is hugely inspired by 
+    the React framework in JavaScript.
+
+
+
+Structured Tutorials:
+-----------------------------------------------------------------------------------------------
+1. Teaching Code
+    The first is its teaching code site, which lists student and teacher resources 
+    for learning Swift from the absolute basics up to professional certifications.
+    https://www.apple.com/uk/education/k12/learn-to-code/
+
+2. SwiftUI Tutorials
+    The second, Apple has a series of SwiftUI tutorials that walk you through 
+    building real apps. 
+    These do not teach you Swift, though, so you'll need to follow their 
+    Swift-focused curriculum first.
+    https://developer.apple.com/tutorials/swiftui/
+
+
+
+YouTube and More:
+-----------------------------------------------------------------------------------------------
+1. Chris Ching
+    https://www.youtube.com/watch?v=VlhcNR7Qrno
+
+2. Mark Moeykens
+    https://www.youtube.com/watch?v=51xIHDm_BDs
+
+3. Paul Hudson/Hacking With Swift
+    https://www.youtube.com/watch?v=aP-SQXTtWhY&t=1606s
+
+4. BLCKBIRDS
+    https://blckbirds.com/swiftui-tutorials/
+
+5. Ray Wenderlich
+    https://www.raywenderlich.com/
+
+6. Donny Wals
+    https://www.donnywals.com/
+
+7. Antoine van der Lee
+    https://www.avanderlee.com/
+
+
+
+Who to follow on Twitter:
+-----------------------------------------------------------------------------------------------
+1. Sean Allen
+    https://twitter.com/seanallen_dev
+
+2. Antoine van der Lee
+    https://twitter.com/twannl
+    https://www.avanderlee.com/
+
+3. Novall Khan
+    https://twitter.com/novallswift
+
+4. Steve Throughton-Smith
+    https://twitter.com/stroughtonsmith
+
+5. Kaya Thomas
+    https://twitter.com/kthomas901/
+
+6. Majid Jabrayilov
+    https://twitter.com/mecid
+
+7. Donny Walls
+    https://twitter.com/donnywals
+
+8. Sommer Panage
+    https://twitter.com/sommer
+
+9. Natascha Fadeeva
+    https://twitter.com/tanaschita
+
+10. Paul Hudson/Hacking With Swift
+    https://twitter.com/twostraws
+
+
+
+Newsletters and beyond:
+-----------------------------------------------------------------------------------------------
+1. iOS Dev Weekly
+    https://iosdevweekly.com/
+
+2. Hacking With Swift Forums
+    https://www.hackingwithswift.com/forums
+
+3. iOS Dev Happy Hour
+    https://www.iosdevhappyhour.com/
+
+4. WWDC GitHub Repository
+    https://github.com/twostraws/wwdc
+
+5. Hacking With Swift Slack Group
+    https://www.hackingwithswift.com/slack
+
+
