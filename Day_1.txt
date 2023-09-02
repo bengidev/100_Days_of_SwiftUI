@@ -1,0 +1,64 @@
+Day 1 from 100 Days of SwiftUI
+
+Why Swift?
+-----------------------------------------------------------------------------------------------
+Swift is a relatively young language, having launched only in 2014.
+This means it doesn't have a lot of the language cruft that old 
+languages can suffer from, and usually means there is only one 
+way to solve a particular problem.
+
+At the same time, being such a new programming means that 
+Swift leverages all sorts of new ideas built upon 
+the successes - and sometimes mistakes - of older languages.
+
+For Example:
+1. It makes hard to accidentally write unsafe code.
+2. It makes it very easy to write code that is clear and understandable.
+3. It supports all the world languages so you'll never see 
+    those strange character errors that plague other languages.
+
+Swift itself is just the language, and isn't designed to draw anything 
+the screen. And using Apple's framework SwiftUI for creates apps interfaces.
+
+"Programming is an art: Don't spend all your time sharpening your pencil 
+when you should be drawing" ~ Paul Hudson.
+
+
+
+How to follow along
+-----------------------------------------------------------------------------------------------
+We'll be using a Swift Playground for macOS for all the code in this book.
+
+You can create one by launching XCode, then going to the File Menu and choosing 
+New > Playground (inside the macOS tab).
+
+When you're asked what kind of playground to create, choose Blank from 
+the macOS tab, then save it somewhere you can get to easily.
+
+
+
+How to create variables and constants
+-----------------------------------------------------------------------------------------------
+See the details inside Day_1_Playground.
+
+
+
+How to create Strings
+-----------------------------------------------------------------------------------------------
+See the details inside Day_1_Playground.
+
+
+
+How to store whole numbers
+-----------------------------------------------------------------------------------------------
+See the details inside Day_1_Playground.
+
+
+
+How to store decimal numbers
+-----------------------------------------------------------------------------------------------
+See the details inside Day_1_Playground.
+
+
+
+
