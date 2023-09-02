@@ -1,0 +1,25 @@
+Day 2 from 100 Days of SwiftUI
+
+How to store truth with Booleans?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_2_Playground.
+
+
+
+How to join strings together
+-----------------------------------------------------------------------------------------------
+See the details inside Day_2_Playground.
+
+
+
+Why does Swift have string interpolation?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_2_Playground.
+
+
+
+Summary: Simple data
+-----------------------------------------------------------------------------------------------
+See the details inside Day_2_Playground.
+
+
