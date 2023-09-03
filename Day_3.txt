@@ -1,0 +1,47 @@
+Day 3 from 100 Days of SwiftUI
+
+How to store ordered data in arrays
+-----------------------------------------------------------------------------------------------
+See the details inside Day_3_Playground.
+
+
+
+How to store and find data in dictionaries
+-----------------------------------------------------------------------------------------------
+See the details inside Day_3_Playground.
+
+
+
+Why does Swift have dictionaries as well as arrays?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_3_Playground.
+
+
+
+Why does Swift have default values for dictionaries?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_3_Playground.
+
+
+
+How to use sets for fast data lookup
+-----------------------------------------------------------------------------------------------
+See the details inside Day_3_Playground.
+
+
+
+Why are sets different from arrays in Swift?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_3_Playground.
+
+
+
+How to create and use enums
+-----------------------------------------------------------------------------------------------
+See the details inside Day_3_Playground.
+
+
+
+Why does Swift need enums?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_3_Playground.
