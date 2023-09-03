@@ -1,0 +1,54 @@
+Day 5 from 100 Days of SwiftUI
+
+How to check a condition is true or false
+-----------------------------------------------------------------------------------------------
+See the details inside Day_5_Playground.
+
+
+
+How does Swift let us compare many types of data?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_5_Playground.
+
+
+
+How to check multiple conditions
+-----------------------------------------------------------------------------------------------
+See the details inside Day_5_Playground.
+
+
+
+What’s the difference between if and else if?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_5_Playground.
+
+
+
+How to check multiple conditions
+-----------------------------------------------------------------------------------------------
+See the details inside Day_5_Playground.
+
+
+
+How to use switch statements to check multiple conditions
+-----------------------------------------------------------------------------------------------
+See the details inside Day_5_Playground.
+
+
+
+When should you use switch statements rather than if?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_5_Playground.
+
+
+
+How to use the ternary conditional operator for quick tests
+-----------------------------------------------------------------------------------------------
+See the details inside Day_5_Playground.
+
+
+
+
+When should you use the ternary operator in Swift?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_5_Playground.
