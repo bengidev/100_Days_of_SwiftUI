@@ -1,0 +1,23 @@
+Day 4 from 100 Days of SwiftUI
+
+How to use type annotations
+-----------------------------------------------------------------------------------------------
+See the details inside Day_4_Playground.
+
+
+
+Why does Swift have type annotations?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_4_Playground.
+
+
+
+Why would you want to create an empty collection?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_4_Playground.
+
+
+
+Summary: Complex data
+-----------------------------------------------------------------------------------------------
+See the details inside Day_4_Playground.
