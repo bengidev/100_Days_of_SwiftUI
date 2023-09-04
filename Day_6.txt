@@ -1,0 +1,62 @@
+Day 6 from 100 Days of SwiftUI
+
+How to use a for loop to repeat work
+-----------------------------------------------------------------------------------------------
+See the details inside Day_6_Playground.
+
+
+
+Why does Swift use underscores with loops?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_6_Playground.
+
+
+
+Why does Swift have two range operators?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_6_Playground.
+
+
+
+How to use a while loop to repeat work
+-----------------------------------------------------------------------------------------------
+See the details inside Day_6_Playground.
+
+
+
+When should you use a while loop?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_6_Playground.
+
+
+
+How to skip loop items with break and continue
+-----------------------------------------------------------------------------------------------
+See the details inside Day_6_Playground.
+
+
+
+Why would you want to exit a loop?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_6_Playground.
+
+
+
+Why does Swift have labeled statements?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_6_Playground.
+
+
+
+When to use break and when to use continue
+-----------------------------------------------------------------------------------------------
+See the details inside Day_6_Playground.
+
+
+
+Summary: Conditions and loops
+-----------------------------------------------------------------------------------------------
+See the details inside Day_6_Playground.
+
+
+
