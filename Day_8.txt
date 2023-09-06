@@ -1,0 +1,35 @@
+Day 8 from 100 Days of SwiftUI
+
+How to provide default values for parameters
+-----------------------------------------------------------------------------------------------
+See the details inside Day_8_Playground.
+
+
+
+When to use default parameters for functions
+-----------------------------------------------------------------------------------------------
+See the details inside Day_8_Playground.
+
+
+
+How to handle errors in functions
+-----------------------------------------------------------------------------------------------
+See the details inside Day_8_Playground.
+
+
+
+When should you write throwing functions?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_8_Playground.
+
+
+
+Why does Swift make us use try before every throwing function?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_8_Playground.
+
+
+
+Summary: Functions
+-----------------------------------------------------------------------------------------------
+See the details inside Day_8_Playground.
