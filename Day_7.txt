@@ -1,0 +1,53 @@
+Day 7 from 100 Days of SwiftUI
+
+How to reuse code with functions
+-----------------------------------------------------------------------------------------------
+See the details inside Day_7_Playground.
+
+
+
+What code should be put in a function?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_7_Playground.
+
+
+
+How many parameters should a function accept?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_7_Playground.
+
+
+
+How to return values from functions
+-----------------------------------------------------------------------------------------------
+See the details inside Day_7_Playground.
+
+
+
+When is the return keyword not needed in a Swift function?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_7_Playground.
+
+
+
+How to return multiple values from functions
+-----------------------------------------------------------------------------------------------
+See the details inside Day_7_Playground.
+
+
+
+When should you use an array, a set, or a tuple in Swift?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_7_Playground.
+
+
+
+How to customize parameter labels
+-----------------------------------------------------------------------------------------------
+See the details inside Day_7_Playground.
+
+
+
+When should you omit a parameter label?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_7_Playground.
