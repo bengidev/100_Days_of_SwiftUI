@@ -1,0 +1,59 @@
+Day 9 from 100 Days of SwiftUI
+
+How to create and use closures
+-----------------------------------------------------------------------------------------------
+See the details inside Day_9_Playground.
+
+
+
+What the heck are closures and why does Swift love them so much?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_9_Playground.
+
+
+
+Why are Swift’s closure parameters inside the braces?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_9_Playground.
+
+
+
+How do you return a value from a closure that takes no parameters?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_9_Playground.
+
+
+
+How to use trailing closures and shorthand syntax
+-----------------------------------------------------------------------------------------------
+See the details inside Day_9_Playground.
+
+
+
+Why does Swift have trailing closure syntax?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_9_Playground.
+
+
+
+When should you use shorthand parameter names?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_9_Playground.
+
+
+
+How to accept functions as parameters
+-----------------------------------------------------------------------------------------------
+See the details inside Day_9_Playground.
+
+
+
+Why would you want to use closures as parameters?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_9_Playground.
+
+
+
+Summary: Closures
+-----------------------------------------------------------------------------------------------
+See the details inside Day_9_Playground.
