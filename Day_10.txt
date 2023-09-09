@@ -1,0 +1,71 @@
+Day 10 from 100 Days of SwiftUI
+
+How to create your own structs
+-----------------------------------------------------------------------------------------------
+See the details inside Day_10_Playground.
+
+
+
+What’s the difference between a struct and a tuple?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_10_Playground.
+
+
+
+What’s the difference between a function and a method?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_10_Playground.
+
+
+
+Why do we need to mark some methods as mutating?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_10_Playground.
+
+
+
+How to compute property values dynamically
+-----------------------------------------------------------------------------------------------
+See the details inside Day_10_Playground.
+
+
+
+When should you use a computed property or a stored property?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_10_Playground.
+
+
+
+How to take action when a property changes
+-----------------------------------------------------------------------------------------------
+See the details inside Day_10_Playground.
+
+
+
+When should you use property observers?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_10_Playground.
+
+
+
+When should you use willSet rather than didSet?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_10_Playground.
+
+
+
+How to create custom initializers
+-----------------------------------------------------------------------------------------------
+See the details inside Day_10_Playground.
+
+
+
+How do Swift’s memberwise initializers work?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_10_Playground.
+
+
+
+When would you use self in a method?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_10_Playground.
