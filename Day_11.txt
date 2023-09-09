@@ -1,0 +1,29 @@
+Day 11 from 100 Days of SwiftUI
+
+How to limit access to internal data using access control
+-----------------------------------------------------------------------------------------------
+See the details inside Day_11_Playground.
+
+
+
+What’s the point of access control?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_11_Playground.
+
+
+
+Static properties and methods
+-----------------------------------------------------------------------------------------------
+See the details inside Day_11_Playground.
+
+
+
+What’s the point of static properties and methods in Swift?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_11_Playground.
+
+
+
+Summary: Structs
+-----------------------------------------------------------------------------------------------
+See the details inside Day_11_Playground.
