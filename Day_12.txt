@@ -1,0 +1,83 @@
+Day 12 from 100 Days of SwiftUI
+
+How to create your own classes
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+Why does Swift have both classes and structs?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+Why don’t Swift classes have a memberwise initializer?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+How to make one class inherit from another
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+When would you want to override a method?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+Which classes should be declared as final?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+How to add initializers for classes
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+How to copy classes
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+Why do copies of a class share their data?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+How to create a deinitializer for a class
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+Why do classes have deinitializers and structs don’t?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+How to work with variables inside classes
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+Why can variable properties in constant classes be changed?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+Summary: Classes
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
