@@ -1,0 +1,47 @@
+Day 13 from 100 Days of SwiftUI
+
+How to create and use protocols
+-----------------------------------------------------------------------------------------------
+See the details inside Day_13_Playground.
+
+
+
+Why does Swift need protocols?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_13_Playground.
+
+
+
+How to use opaque return types
+-----------------------------------------------------------------------------------------------
+See the details inside Day_13_Playground.
+
+
+
+How to create and use extensions
+-----------------------------------------------------------------------------------------------
+See the details inside Day_13_Playground.
+
+
+
+When should you use extensions in Swift?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_13_Playground.
+
+
+
+How to create and use protocol extensions
+-----------------------------------------------------------------------------------------------
+See the details inside Day_13_Playground.
+
+
+
+When are protocol extensions useful in Swift?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_13_Playground.
+
+
+
+Summary: Protocols and extensions
+-----------------------------------------------------------------------------------------------
+See the details inside Day_13_Playground.
