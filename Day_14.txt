@@ -1,0 +1,71 @@
+Day 14 from 100 Days of SwiftUI
+
+How to handle missing data with optionals
+-----------------------------------------------------------------------------------------------
+See the details inside Day_14_Playground.
+
+
+
+Why does Swift have optionals?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_14_Playground.
+
+
+
+Why does Swift make us unwrap optionals?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_14_Playground.
+
+
+
+How to unwrap optionals with guard
+-----------------------------------------------------------------------------------------------
+See the details inside Day_14_Playground.
+
+
+
+When to use guard let rather than if let
+-----------------------------------------------------------------------------------------------
+See the details inside Day_14_Playground.
+
+
+
+How to unwrap optionals with nil coalescing
+-----------------------------------------------------------------------------------------------
+See the details inside Day_14_Playground.
+
+
+
+When should you use nil coalescing in Swift?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_14_Playground.
+
+
+
+How to handle multiple optionals using optional chaining
+-----------------------------------------------------------------------------------------------
+See the details inside Day_14_Playground.
+
+
+
+Why is optional chaining so important?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_14_Playground.
+
+
+
+How to handle function failure with optionals
+-----------------------------------------------------------------------------------------------
+See the details inside Day_14_Playground.
+
+
+
+When should you use optional try?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_14_Playground.
+
+
+
+Summary: Optionals
+-----------------------------------------------------------------------------------------------
+See the details inside Day_14_Playground.
