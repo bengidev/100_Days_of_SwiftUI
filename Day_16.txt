@@ -1,0 +1,41 @@
+Day 16 from 100 Days of SwiftUI
+
+WeSplit: Introduction
+-----------------------------------------------------------------------------------------------
+See the details inside Day_16_WeSplit.
+
+
+
+Understanding the basic structure of a SwiftUI app
+-----------------------------------------------------------------------------------------------
+See the details inside Day_16_WeSplit.
+
+
+
+Creating a form
+-----------------------------------------------------------------------------------------------
+See the details inside Day_16_WeSplit.
+
+
+
+Adding a navigation bar
+-----------------------------------------------------------------------------------------------
+See the details inside Day_16_WeSplit.
+
+
+
+Modifying program state
+-----------------------------------------------------------------------------------------------
+See the details inside Day_16_WeSplit.
+
+
+
+Binding state to user interface controls
+-----------------------------------------------------------------------------------------------
+See the details inside Day_16_WeSplit.
+
+
+
+Creating views in a loop
+-----------------------------------------------------------------------------------------------
+See the details inside Day_16_WeSplit.
