@@ -1,0 +1,29 @@
+Day 16 from 100 Days of SwiftUI
+
+Reading text from the user with TextField
+-----------------------------------------------------------------------------------------------
+See the details inside Day_17_WeSplit.
+
+
+
+Creating pickers in a form
+-----------------------------------------------------------------------------------------------
+See the details inside Day_17_WeSplit.
+
+
+
+Adding a segmented control for tip percentages
+-----------------------------------------------------------------------------------------------
+See the details inside Day_17_WeSplit.
+
+
+
+Calculating the total per person
+-----------------------------------------------------------------------------------------------
+See the details inside Day_17_WeSplit.
+
+
+
+Hiding the keyboard
+-----------------------------------------------------------------------------------------------
+See the details inside Day_17_WeSplit.
