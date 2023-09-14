@@ -1,0 +1,11 @@
+Day 18 from 100 Days of SwiftUI
+
+WeSplit: Wrap up
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
+
+
+
+Review for Project 1: WeSplit
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
