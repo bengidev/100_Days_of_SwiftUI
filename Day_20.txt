@@ -1,0 +1,35 @@
+Day 20 from 100 Days of SwiftUI
+
+Guess the Flag: Introduction
+-----------------------------------------------------------------------------------------------
+See the details inside Day_20_GuessTheFlag.
+
+
+
+Using stacks to arrange views
+-----------------------------------------------------------------------------------------------
+See the details inside Day_20_GuessTheFlag.
+
+
+
+Colors and frames
+-----------------------------------------------------------------------------------------------
+See the details inside Day_20_GuessTheFlag.
+
+
+
+Gradients
+-----------------------------------------------------------------------------------------------
+See the details inside Day_20_GuessTheFlag.
+
+
+
+Buttons and images
+-----------------------------------------------------------------------------------------------
+See the details inside Day_20_GuessTheFlag.
+
+
+
+Showing alert messages
+-----------------------------------------------------------------------------------------------
+See the details inside Day_20_GuessTheFlag.
