@@ -1,0 +1,29 @@
+Day 26 from 100 Days of SwiftUI
+
+BetterRest: Introduction
+-----------------------------------------------------------------------------------------------
+See the details inside Day_26_BetterRest.
+
+
+
+Entering numbers with Stepper
+-----------------------------------------------------------------------------------------------
+See the details inside Day_26_BetterRest.
+
+
+
+Selecting dates and times with DatePicker
+-----------------------------------------------------------------------------------------------
+See the details inside Day_26_BetterRest.
+
+
+
+Working with dates
+-----------------------------------------------------------------------------------------------
+See the details inside Day_26_BetterRest.
+
+
+
+Training a model with Create ML
+-----------------------------------------------------------------------------------------------
+See the details inside Day_26_BetterRest.
