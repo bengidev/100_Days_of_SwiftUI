@@ -1,0 +1,59 @@
+Day 23 from 100 Days of SwiftUI
+
+Views and modifiers: Introduction
+-----------------------------------------------------------------------------------------------
+See the details inside Day_23_ViewsAndModifiers.
+
+
+
+Why does SwiftUI use structs for views?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_23_ViewsAndModifiers.
+
+
+
+What is behind the main SwiftUI view?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_23_ViewsAndModifiers.
+
+
+
+Why modifier order matters
+-----------------------------------------------------------------------------------------------
+See the details inside Day_23_ViewsAndModifiers.
+
+
+
+Why does SwiftUI use “some View” for its view type?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_23_ViewsAndModifiers.
+
+
+
+Conditional modifiers
+-----------------------------------------------------------------------------------------------
+See the details inside Day_23_ViewsAndModifiers.
+
+
+
+Environment modifiers
+-----------------------------------------------------------------------------------------------
+See the details inside Day_23_ViewsAndModifiers.
+
+
+
+Views as properties
+-----------------------------------------------------------------------------------------------
+See the details inside Day_23_ViewsAndModifiers.
+
+
+
+View composition
+-----------------------------------------------------------------------------------------------
+See the details inside Day_23_ViewsAndModifiers.
+
+
+
+Custom modifiers
+-----------------------------------------------------------------------------------------------
+See the details inside Day_23_ViewsAndModifiers.
