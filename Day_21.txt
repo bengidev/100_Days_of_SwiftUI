@@ -1,0 +1,23 @@
+Day 21 from 100 Days of SwiftUI
+
+Stacking up buttons
+-----------------------------------------------------------------------------------------------
+See the details inside Day_21_GuessTheFlag.
+
+
+
+Showing the player’s score with an alert
+-----------------------------------------------------------------------------------------------
+See the details inside Day_21_GuessTheFlag.
+
+
+
+Styling our flags
+-----------------------------------------------------------------------------------------------
+See the details inside Day_21_GuessTheFlag.
+
+
+
+Upgrading our design
+-----------------------------------------------------------------------------------------------
+See the details inside Day_21_GuessTheFlag.
