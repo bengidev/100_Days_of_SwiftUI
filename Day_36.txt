@@ -1,0 +1,41 @@
+Day 36 from 100 Days of SwiftUI
+
+iExpense: Introduction
+-----------------------------------------------------------------------------------------------
+See the details inside Day_36_iExpense.
+
+
+
+Why @State only works with structs
+-----------------------------------------------------------------------------------------------
+See the details inside Day_36_iExpense.
+
+
+
+Sharing SwiftUI state with @StateObject
+-----------------------------------------------------------------------------------------------
+See the details inside Day_36_iExpense.
+
+
+
+Showing and hiding views
+-----------------------------------------------------------------------------------------------
+See the details inside Day_36_iExpense.
+
+
+
+Deleting items using onDelete()
+-----------------------------------------------------------------------------------------------
+See the details inside Day_36_iExpense.
+
+
+
+Storing user settings with UserDefaults
+-----------------------------------------------------------------------------------------------
+See the details inside Day_36_iExpense.
+
+
+
+Archiving Swift objects with Codable
+-----------------------------------------------------------------------------------------------
+See the details inside Day_36_iExpense.
