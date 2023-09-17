@@ -1,0 +1,17 @@
+Day 27 from 100 Days of SwiftUI
+
+Building a basic layout
+-----------------------------------------------------------------------------------------------
+See the details inside Day_27_BetterRest.
+
+
+
+Connecting SwiftUI to Core ML
+-----------------------------------------------------------------------------------------------
+See the details inside Day_27_BetterRest.
+
+
+
+Cleaning up the user interface
+-----------------------------------------------------------------------------------------------
+See the details inside Day_27_BetterRest.
