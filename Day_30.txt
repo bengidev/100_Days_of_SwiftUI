@@ -1,0 +1,19 @@
+Day 30 from 100 Days of SwiftUI
+
+Adding to a list of words
+-----------------------------------------------------------------------------------------------
+See the details inside Day_30_WordScramble.
+
+
+
+Running code when our app launches
+-----------------------------------------------------------------------------------------------
+See the details inside Day_30_WordScramble.
+
+
+
+Validating words with UITextChecker
+-----------------------------------------------------------------------------------------------
+See the details inside Day_30_WordScramble.
+
+
