@@ -1,0 +1,23 @@
+Day 33 from 100 Days of SwiftUI
+
+Controlling the animation stack
+-----------------------------------------------------------------------------------------------
+See the details inside Day_33_Animations.
+
+
+
+Animating gestures
+-----------------------------------------------------------------------------------------------
+See the details inside Day_33_Animations.
+
+
+
+Showing and hiding views with transitions
+-----------------------------------------------------------------------------------------------
+See the details inside Day_33_Animations.
+
+
+
+Building custom transitions using ViewModifier
+-----------------------------------------------------------------------------------------------
+See the details inside Day_33_Animations.
