@@ -1,0 +1,29 @@
+Day 32 from 100 Days of SwiftUI
+
+Animation: Introduction
+-----------------------------------------------------------------------------------------------
+See the details inside Day_32_Animations.
+
+
+
+Creating implicit animations
+-----------------------------------------------------------------------------------------------
+See the details inside Day_32_Animations.
+
+
+
+Customizing animations in SwiftUI
+-----------------------------------------------------------------------------------------------
+See the details inside Day_32_Animations.
+
+
+
+Animating bindings
+-----------------------------------------------------------------------------------------------
+See the details inside Day_32_Animations.
+
+
+
+Creating explicit animations
+-----------------------------------------------------------------------------------------------
+See the details inside Day_32_Animations.
