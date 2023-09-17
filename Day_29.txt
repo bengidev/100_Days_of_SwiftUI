@@ -1,0 +1,23 @@
+Day 29 from 100 Days of SwiftUI
+
+Word Scramble: Introduction
+-----------------------------------------------------------------------------------------------
+See the details inside Day_29_WordScramble.
+
+
+
+Introducing List, your best friend
+-----------------------------------------------------------------------------------------------
+See the details inside Day_29_WordScramble.
+
+
+
+Loading resources from your app bundle
+-----------------------------------------------------------------------------------------------
+See the details inside Day_29_WordScramble.
+
+
+
+Working with strings
+-----------------------------------------------------------------------------------------------
+See the details inside Day_29_WordScramble.
