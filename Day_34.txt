@@ -1,0 +1,11 @@
+Day 34 from 100 Days of SwiftUI
+
+Animation: Wrap up
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
+
+
+
+Review for Project 6: Animations
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
