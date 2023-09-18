@@ -1,0 +1,29 @@
+Day 37 from 100 Days of SwiftUI
+
+Building a list we can delete from
+-----------------------------------------------------------------------------------------------
+See the details inside Day_37_iExpense.
+
+
+
+Working with Identifiable items in SwiftUI
+-----------------------------------------------------------------------------------------------
+See the details inside Day_37_iExpense.
+
+
+
+Sharing an observed object with a new view
+-----------------------------------------------------------------------------------------------
+See the details inside Day_37_iExpense.
+
+
+
+Making changes permanent with UserDefaults
+-----------------------------------------------------------------------------------------------
+See the details inside Day_37_iExpense.
+
+
+
+Final polish
+-----------------------------------------------------------------------------------------------
+See the details inside Day_37_iExpense.
