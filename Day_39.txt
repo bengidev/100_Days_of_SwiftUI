@@ -1,0 +1,35 @@
+Day 39 from 100 Days of SwiftUI
+
+Moonshot: Introduction
+-----------------------------------------------------------------------------------------------
+See the details inside Day_39_Moonshot.
+
+
+
+Resizing images to fit the screen using GeometryReader
+-----------------------------------------------------------------------------------------------
+See the details inside Day_39_Moonshot.
+
+
+
+How ScrollView lets us work with scrolling data
+-----------------------------------------------------------------------------------------------
+See the details inside Day_39_Moonshot.
+
+
+
+Pushing new views onto the stack using NavigationLink
+-----------------------------------------------------------------------------------------------
+See the details inside Day_39_Moonshot.
+
+
+
+Working with hierarchical Codable data
+-----------------------------------------------------------------------------------------------
+See the details inside Day_39_Moonshot.
+
+
+
+How to lay out views in a scrolling grid
+-----------------------------------------------------------------------------------------------
+See the details inside Day_39_Moonshot.
