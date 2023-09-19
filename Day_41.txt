@@ -1,0 +1,17 @@
+Day 41 from 100 Days of SwiftUI
+
+Showing mission details with ScrollView and GeometryReader
+-----------------------------------------------------------------------------------------------
+See the details inside Day_41_Moonshot.
+
+
+
+Merging Codable structs
+-----------------------------------------------------------------------------------------------
+See the details inside Day_41_Moonshot.
+
+
+
+Finishing up with one last view
+-----------------------------------------------------------------------------------------------
+See the details inside Day_41_Moonshot.
