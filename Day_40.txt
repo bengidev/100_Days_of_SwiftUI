@@ -1,0 +1,17 @@
+Day 40 from 100 Days of SwiftUI
+
+Loading a specific kind of Codable data
+-----------------------------------------------------------------------------------------------
+See the details inside Day_40_Moonshot.
+
+
+
+Using generics to load any kind of Codable data
+-----------------------------------------------------------------------------------------------
+See the details inside Day_40_Moonshot.
+
+
+
+Formatting our mission view
+-----------------------------------------------------------------------------------------------
+See the details inside Day_40_Moonshot.
