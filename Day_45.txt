@@ -1,0 +1,23 @@
+Day 45 from 100 Days of SwiftUI
+
+Special effects in SwiftUI: blurs, blending, and more
+-----------------------------------------------------------------------------------------------
+See the details inside Day_45_Drawing.
+
+
+
+Animating simple shapes with animatableData
+-----------------------------------------------------------------------------------------------
+See the details inside Day_45_Drawing.
+
+
+
+Animating complex shapes with AnimatablePair
+-----------------------------------------------------------------------------------------------
+See the details inside Day_45_Drawing.
+
+
+
+Creating a spirograph with SwiftUI
+-----------------------------------------------------------------------------------------------
+See the details inside Day_45_Drawing.
