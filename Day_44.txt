@@ -1,0 +1,17 @@
+Day 44 from 100 Days of SwiftUI
+
+Transforming shapes using CGAffineTransform and even-odd fills
+-----------------------------------------------------------------------------------------------
+See the details inside Day_44_Drawing.
+
+
+
+Creative borders and fills using ImagePaint
+-----------------------------------------------------------------------------------------------
+See the details inside Day_44_Drawing.
+
+
+
+Enabling high-performance Metal rendering with drawingGroup()
+-----------------------------------------------------------------------------------------------
+See the details inside Day_44_Drawing.
