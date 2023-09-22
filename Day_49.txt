@@ -1,0 +1,29 @@
+Day 49 from 100 Days of SwiftUI
+
+Cupcake Corner: Introduction
+-----------------------------------------------------------------------------------------------
+See the details inside Day_49_CupcakeCorner.
+
+
+
+Adding Codable conformance for @Published properties
+-----------------------------------------------------------------------------------------------
+See the details inside Day_49_CupcakeCorner.
+
+
+
+Sending and receiving Codable data with URLSession and SwiftUI
+-----------------------------------------------------------------------------------------------
+See the details inside Day_49_CupcakeCorner.
+
+
+
+Loading an image from a remote server
+-----------------------------------------------------------------------------------------------
+See the details inside Day_49_CupcakeCorner.
+
+
+
+Validating and disabling forms
+-----------------------------------------------------------------------------------------------
+See the details inside Day_49_CupcakeCorner.
