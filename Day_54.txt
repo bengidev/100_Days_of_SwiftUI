@@ -1,0 +1,17 @@
+Day 54 from 100 Days of SwiftUI
+
+Creating books with Core Data
+-----------------------------------------------------------------------------------------------
+See the details inside Day_54_Bookworm.
+
+
+
+Adding a custom star rating component
+-----------------------------------------------------------------------------------------------
+See the details inside Day_54_Bookworm.
+
+
+
+Building a list with @FetchRequest
+-----------------------------------------------------------------------------------------------
+See the details inside Day_54_Bookworm.
