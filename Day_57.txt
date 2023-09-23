@@ -1,0 +1,29 @@
+Day 57 from 100 Days of SwiftUI
+
+Core Data: Introduction
+-----------------------------------------------------------------------------------------------
+See the details inside Day_57_CoreDataProject.
+
+
+
+Why does \.self work for ForEach?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_57_CoreDataProject.
+
+
+
+Creating NSManagedObject subclasses
+-----------------------------------------------------------------------------------------------
+See the details inside Day_57_CoreDataProject.
+
+
+
+Conditional saving of NSManagedObjectContext
+-----------------------------------------------------------------------------------------------
+See the details inside Day_57_CoreDataProject.
+
+
+
+Ensuring Core Data objects are unique using constraints
+-----------------------------------------------------------------------------------------------
+See the details inside Day_57_CoreDataProject.
