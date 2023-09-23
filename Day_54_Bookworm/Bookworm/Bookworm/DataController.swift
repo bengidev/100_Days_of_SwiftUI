@@ -8,8 +8,6 @@
 import CoreData
 import Foundation
 
-/// Creating books with Core Data
-/// 
 class DataController: ObservableObject {
     let container = NSPersistentContainer(name: "Bookworm")
     

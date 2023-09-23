@@ -26,6 +26,7 @@ struct AddBookView: View {
             Form {
                 Section {
                     TextField("Name of book", text: $title)
+                    
                     TextField("Author's name", text: $author)
 
                     Picker("Genre", selection: $genre) {
@@ -35,8 +36,6 @@ struct AddBookView: View {
                     }
                 }
 
-                /// Adding a custom star rating component
-                /// 
                 Section {
                     TextEditor(text: $review)
 
@@ -54,6 +53,8 @@ struct AddBookView: View {
                         newBook.rating = Int16(rating)
                         newBook.genre = genre
                         newBook.review = review
+                        
+                        print(rating)
 
                         try? moc.save()
 

@@ -8,8 +8,6 @@
 import SwiftUI
 
 struct RatingView: View {
-    /// Adding a custom star rating component
-    ///
     @Binding var rating: Int
 
     var label = ""
@@ -25,7 +23,7 @@ struct RatingView: View {
                 Text(label)
             }
 
-            ForEach(0 ..< maximumRating, id: \.self) { number in
+            ForEach(1 ... maximumRating, id: \.self) { number in
                 buildImage(for: number)
                     .foregroundColor(number > rating ? offColor : onColor)
                     .onTapGesture {

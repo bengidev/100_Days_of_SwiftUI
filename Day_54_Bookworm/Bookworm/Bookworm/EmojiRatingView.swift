@@ -8,8 +8,6 @@
 import SwiftUI
 
 struct EmojiRatingView: View {
-    /// Building a list with @FetchRequest
-    /// 
     let rating: Int16
     
     var body: some View {
