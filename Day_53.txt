@@ -1,0 +1,23 @@
+Day 53 from 100 Days of SwiftUI
+
+Bookworm: Introduction
+-----------------------------------------------------------------------------------------------
+See the details inside Day_53_Bookworm.
+
+
+
+Creating a custom component with @Binding
+-----------------------------------------------------------------------------------------------
+See the details inside Day_53_Bookworm.
+
+
+
+Accepting multi-line text input with TextEditor
+-----------------------------------------------------------------------------------------------
+See the details inside Day_53_Bookworm.
+
+
+
+How to combine Core Data and SwiftUI
+-----------------------------------------------------------------------------------------------
+See the details inside Day_53_Bookworm.
