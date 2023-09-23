@@ -1,0 +1,23 @@
+Day 55 from 100 Days of SwiftUI
+
+Showing book details
+-----------------------------------------------------------------------------------------------
+See the details inside Day_55_Bookworm.
+
+
+
+Sorting fetch requests with SortDescriptor
+-----------------------------------------------------------------------------------------------
+See the details inside Day_55_Bookworm.
+
+
+
+Deleting from a Core Data fetch request
+-----------------------------------------------------------------------------------------------
+See the details inside Day_55_Bookworm.
+
+
+
+Using an alert to pop a NavigationLink programmatically
+-----------------------------------------------------------------------------------------------
+See the details inside Day_55_Bookworm.
