@@ -1,0 +1,17 @@
+Day 50 from 100 Days of SwiftUI
+
+Taking basic order details
+-----------------------------------------------------------------------------------------------
+See the details inside Day_50_CupcakeCorner.
+
+
+
+Checking for a valid address
+-----------------------------------------------------------------------------------------------
+See the details inside Day_50_CupcakeCorner.
+
+
+
+Preparing for checkout
+-----------------------------------------------------------------------------------------------
+See the details inside Day_50_CupcakeCorner.
