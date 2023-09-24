@@ -1,0 +1,17 @@
+Day 58 from 100 Days of SwiftUI
+
+Filtering @FetchRequest using NSPredicate
+-----------------------------------------------------------------------------------------------
+See the details inside Day_58_CoreDataProject.
+
+
+
+Dynamically filtering @FetchRequest with SwiftUI
+-----------------------------------------------------------------------------------------------
+See the details inside Day_58_CoreDataProject.
+
+
+
+One-to-many relationships with Core Data, SwiftUI, and @FetchRequest
+-----------------------------------------------------------------------------------------------
+See the details inside Day_58_CoreDataProject.
