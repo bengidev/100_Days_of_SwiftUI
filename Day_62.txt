@@ -1,0 +1,23 @@
+Day 62 from 100 Days of SwiftUI
+
+Instafilter: Introduction
+-----------------------------------------------------------------------------------------------
+See the details inside Day_62_Instafilter.
+
+
+
+How property wrappers become structs
+-----------------------------------------------------------------------------------------------
+See the details inside Day_62_Instafilter.
+
+
+
+Responding to state changes using onChange()
+-----------------------------------------------------------------------------------------------
+See the details inside Day_62_Instafilter.
+
+
+
+Showing multiple options with confirmationDialog()
+-----------------------------------------------------------------------------------------------
+See the details inside Day_62_Instafilter.
