@@ -1,0 +1,5 @@
+Day 61 from 100 Days of SwiftUI
+
+Time for Core Data
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
