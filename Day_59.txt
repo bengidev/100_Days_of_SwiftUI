@@ -1,0 +1,11 @@
+Day 59 from 100 Days of SwiftUI
+
+Core Data: Wrap up
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
+
+
+
+Review for Project 12: Core Data
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
