@@ -1,0 +1,23 @@
+Day 68 from 100 Days of SwiftUI
+
+Bucket List: Introduction
+-----------------------------------------------------------------------------------------------
+See the details inside Day_68_Bucketlist.
+
+
+
+Adding conformance to Comparable for custom types
+-----------------------------------------------------------------------------------------------
+See the details inside Day_68_Bucketlist.
+
+
+
+Writing data to the documents directory
+-----------------------------------------------------------------------------------------------
+See the details inside Day_68_Bucketlist.
+
+
+
+Switching view states with enums
+-----------------------------------------------------------------------------------------------
+See the details inside Day_68_Bucketlist.
