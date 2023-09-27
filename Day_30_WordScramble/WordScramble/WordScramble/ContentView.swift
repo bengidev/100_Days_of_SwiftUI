@@ -35,9 +35,10 @@ struct ContentView: View {
                         HStack {
                             Image(systemName: "\(word.count).circle")
                             Text(word)
-                        }.onTapGesture {
-                            print("Tapped")
                         }
+                        .accessibilityElement(children: .ignore)
+                        .accessibilityLabel(word)
+                        .accessibilityHint("\(word.count) letters")
                     }
                 }
             }
