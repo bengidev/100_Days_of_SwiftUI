@@ -1,0 +1,23 @@
+Day 74 from 100 Days of SwiftUI
+
+Accessibility: Introduction
+-----------------------------------------------------------------------------------------------
+See the details inside Day_74_AccessibilitySandbox.
+
+
+
+Identifying views with useful labels
+-----------------------------------------------------------------------------------------------
+See the details inside Day_74_AccessibilitySandbox.
+
+
+
+Hiding and grouping accessibility data
+-----------------------------------------------------------------------------------------------
+See the details inside Day_74_AccessibilitySandbox.
+
+
+
+Reading the value of controls
+-----------------------------------------------------------------------------------------------
+See the details inside Day_74_AccessibilitySandbox.
