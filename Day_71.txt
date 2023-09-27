@@ -1,0 +1,11 @@
+Day 71 from 100 Days of SwiftUI
+
+Downloading data from Wikipedia
+-----------------------------------------------------------------------------------------------
+See the details inside Day_71_Bucketlist.
+
+
+
+Sorting Wikipedia results
+-----------------------------------------------------------------------------------------------
+See the details inside Day_71_Bucketlist.
