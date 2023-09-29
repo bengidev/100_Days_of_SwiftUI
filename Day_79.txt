@@ -1,0 +1,17 @@
+Day 79 from 100 Days of SwiftUI
+
+Hot Prospects: Introduction
+-----------------------------------------------------------------------------------------------
+See the details inside Day_79_HotProspects.
+
+
+
+Reading custom values from the environment with @EnvironmentObject
+-----------------------------------------------------------------------------------------------
+See the details inside Day_79_HotProspects.
+
+
+
+Creating tabs with TabView and tabItem()
+-----------------------------------------------------------------------------------------------
+See the details inside Day_79_HotProspects.
