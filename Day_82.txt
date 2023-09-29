@@ -1,0 +1,17 @@
+Day 82 from 100 Days of SwiftUI
+
+Building our tab bar
+-----------------------------------------------------------------------------------------------
+See the details inside Day_82_HotProspects.
+
+
+
+Sharing data across tabs using @EnvironmentObject
+-----------------------------------------------------------------------------------------------
+See the details inside Day_82_HotProspects.
+
+
+
+Dynamically filtering a SwiftUI List
+-----------------------------------------------------------------------------------------------
+See the details inside Day_82_HotProspects.
