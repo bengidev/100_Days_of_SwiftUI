@@ -1,0 +1,23 @@
+Day 81 from 100 Days of SwiftUI
+
+Creating context menus
+-----------------------------------------------------------------------------------------------
+See the details inside Day_81_HotProspects.
+
+
+
+Adding custom row swipe actions to a List
+-----------------------------------------------------------------------------------------------
+See the details inside Day_81_HotProspects.
+
+
+
+Scheduling local notifications
+-----------------------------------------------------------------------------------------------
+See the details inside Day_81_HotProspects.
+
+
+
+Adding Swift package dependencies in Xcode
+-----------------------------------------------------------------------------------------------
+See the details inside Day_81_HotProspects.
