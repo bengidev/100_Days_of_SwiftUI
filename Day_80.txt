@@ -1,0 +1,17 @@
+Day 80 from 100 Days of SwiftUI
+
+Manually publishing ObservableObject changes
+-----------------------------------------------------------------------------------------------
+See the details inside Day_80_HotProspects.
+
+
+
+Understanding Swift’s Result type
+-----------------------------------------------------------------------------------------------
+See the details inside Day_80_HotProspects.
+
+
+
+Controlling image interpolation in SwiftUI
+-----------------------------------------------------------------------------------------------
+See the details inside Day_80_HotProspects.
