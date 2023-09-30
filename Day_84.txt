@@ -1,0 +1,17 @@
+Day 84 from 100 Days of SwiftUI
+
+Saving and loading data with UserDefaults
+-----------------------------------------------------------------------------------------------
+See the details inside Day_84_HotProspects.
+
+
+
+Adding a context menu to an image
+-----------------------------------------------------------------------------------------------
+See the details inside Day_84_HotProspects.
+
+
+
+Posting notifications to the lock screen
+-----------------------------------------------------------------------------------------------
+See the details inside Day_84_HotProspects.
