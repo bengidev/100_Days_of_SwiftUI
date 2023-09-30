@@ -1,0 +1,23 @@
+Day 86 from 100 Days of SwiftUI
+
+Flashzilla: Introduction
+-----------------------------------------------------------------------------------------------
+See the details inside Day_86_Flashzilla.
+
+
+
+How to use gestures in SwiftUI
+-----------------------------------------------------------------------------------------------
+See the details inside Day_86_Flashzilla.
+
+
+
+Making vibrations with UINotificationFeedbackGenerator and Core Haptics
+-----------------------------------------------------------------------------------------------
+See the details inside Day_86_Flashzilla.
+
+
+
+Disabling user interactivity with allowsHitTesting()
+-----------------------------------------------------------------------------------------------
+See the details inside Day_86_Flashzilla.
