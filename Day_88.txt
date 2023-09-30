@@ -1,0 +1,17 @@
+Day 88 from 100 Days of SwiftUI
+
+Designing a single card view
+-----------------------------------------------------------------------------------------------
+See the details inside Day_88_Flashzilla.
+
+
+
+Building a stack of cards
+-----------------------------------------------------------------------------------------------
+See the details inside Day_88_Flashzilla.
+
+
+
+Moving views with DragGesture and offset()
+-----------------------------------------------------------------------------------------------
+See the details inside Day_88_Flashzilla.
