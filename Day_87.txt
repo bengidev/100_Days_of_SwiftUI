@@ -1,0 +1,17 @@
+Day 87 from 100 Days of SwiftUI
+
+Triggering events repeatedly using a timer
+-----------------------------------------------------------------------------------------------
+See the details inside Day_87_Flashzilla.
+
+
+
+How to be notified when your SwiftUI app moves to the background
+-----------------------------------------------------------------------------------------------
+See the details inside Day_87_Flashzilla.
+
+
+
+Supporting specific accessibility needs with SwiftUI
+-----------------------------------------------------------------------------------------------
+See the details inside Day_87_Flashzilla.
