@@ -1,0 +1,17 @@
+Day 90 from 100 Days of SwiftUI
+
+Making iPhones vibrate with UINotificationFeedbackGenerator
+-----------------------------------------------------------------------------------------------
+See the details inside Day_90_Flashzilla.
+
+
+
+Fixing the bugs
+-----------------------------------------------------------------------------------------------
+See the details inside Day_90_Flashzilla.
+
+
+
+Adding and deleting cards
+-----------------------------------------------------------------------------------------------
+See the details inside Day_90_Flashzilla.
