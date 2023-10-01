@@ -1,0 +1,23 @@
+Day 92 from 100 Days of SwiftUI
+
+Layout and geometry: Introduction
+-----------------------------------------------------------------------------------------------
+See the details inside Day_92_LayoutAndGeometry.
+
+
+
+How layout works in SwiftUI
+-----------------------------------------------------------------------------------------------
+See the details inside Day_92_LayoutAndGeometry.
+
+
+
+Alignment and alignment guides
+-----------------------------------------------------------------------------------------------
+See the details inside Day_92_LayoutAndGeometry.
+
+
+
+How to create a custom alignment guide
+-----------------------------------------------------------------------------------------------
+See the details inside Day_92_LayoutAndGeometry.
