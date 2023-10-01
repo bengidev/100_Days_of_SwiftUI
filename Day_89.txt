@@ -1,0 +1,17 @@
+Day 89 from 100 Days of SwiftUI
+
+Coloring views as we swipe
+-----------------------------------------------------------------------------------------------
+See the details inside Day_89_Flashzilla.
+
+
+
+Counting down with a Timer
+-----------------------------------------------------------------------------------------------
+See the details inside Day_89_Flashzilla.
+
+
+
+Ending the app with allowsHitTesting()
+-----------------------------------------------------------------------------------------------
+See the details inside Day_89_Flashzilla.
