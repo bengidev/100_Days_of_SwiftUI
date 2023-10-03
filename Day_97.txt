@@ -1,0 +1,23 @@
+Day 97 from 100 Days of SwiftUI
+
+Building a primary list of items
+-----------------------------------------------------------------------------------------------
+See the details inside Day_97_SnowSeeker.
+
+
+
+Making NavigationView work in landscape
+-----------------------------------------------------------------------------------------------
+See the details inside Day_97_SnowSeeker.
+
+
+
+Creating a secondary view for NavigationView
+-----------------------------------------------------------------------------------------------
+See the details inside Day_97_SnowSeeker.
+
+
+
+Searching for data in a List
+-----------------------------------------------------------------------------------------------
+See the details inside Day_97_SnowSeeker.
