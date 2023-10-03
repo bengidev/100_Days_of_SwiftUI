@@ -1,0 +1,29 @@
+Day 96 from 100 Days of SwiftUI
+
+SnowSeeker: Introduction
+-----------------------------------------------------------------------------------------------
+See the details inside Day_96_SnowSeeker.
+
+
+
+Working with two side by side views in SwiftUI
+-----------------------------------------------------------------------------------------------
+See the details inside Day_96_SnowSeeker.
+
+
+
+Using alert() and sheet() with optionals
+-----------------------------------------------------------------------------------------------
+See the details inside Day_96_SnowSeeker.
+
+
+
+Using groups as transparent layout containers
+-----------------------------------------------------------------------------------------------
+See the details inside Day_96_SnowSeeker.
+
+
+
+Making a SwiftUI view searchable
+-----------------------------------------------------------------------------------------------
+See the details inside Day_96_SnowSeeker.
