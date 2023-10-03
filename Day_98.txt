@@ -1,0 +1,17 @@
+Day 98 from 100 Days of SwiftUI
+
+Changing a view’s layout in response to size classes
+-----------------------------------------------------------------------------------------------
+See the details inside Day_98_SnowSeeker.
+
+
+
+Binding an alert to an optional string
+-----------------------------------------------------------------------------------------------
+See the details inside Day_98_SnowSeeker.
+
+
+
+Letting the user mark favorites
+-----------------------------------------------------------------------------------------------
+See the details inside Day_98_SnowSeeker.
